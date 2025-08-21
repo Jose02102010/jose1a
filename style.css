@@ -1,7 +1,22 @@
 body{
-    background-color: crimson;
-    color: aqua;
+    background-color: crimson(212,172,25);
+    color: rgb(255, 0, 0);
 }
 section{
-    background-color: cyan;
-    pagginton-botton
+    background-color: rgb(255, 81, 0);
+    padding-top: 80px;
+    padding-bottom: 80px;
+    display: flex;
+    justify-content: center;
+}
+.chamada-texto{
+margin-right: 40px;
+}
+img{
+    height: 200px;
+}
+.chamada-video{
+    display: flex;
+    overflow-x: auto;
+    gap: 10px;
+}
